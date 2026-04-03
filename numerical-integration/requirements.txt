@@ -1,0 +1,10 @@
+numpy
+scipy
+sympy
+fastapi
+pydantic
+uvicorn[standard]
+streamlit
+requests
+matplotlib
+pandas
